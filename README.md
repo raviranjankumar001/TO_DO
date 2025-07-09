@@ -65,7 +65,7 @@ A fully functional Todo List application built using **HTML**, **Tailwind CSS**,
 
 ## 📸 UI Preview
 
-![UI Preview](https://to-do-111.netlify.app/)
+![Screenshot](to_do_preview.png)
 
 ---
 
