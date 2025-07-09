@@ -2,6 +2,14 @@
 
 A fully functional Todo List application built using **HTML**, **Tailwind CSS**, **JavaScript (ES6)**, **Axios**, and the [DummyJSON API](https://dummyjson.com/). It supports adding, filtering, paginating, and storing todos in localStorage.
 
+
+## Live Project Link
+
+[Link](https://to-do-111.netlify.app/)
+
+---
+
+
 ---
 
 ## ⚙️ How It Works
@@ -36,6 +44,51 @@ A fully functional Todo List application built using **HTML**, **Tailwind CSS**,
 
 ---
 
-## 📂 Project Structure
+
+
+
+
+
+
+
+---
+
+## 💻 Getting Started
+
+1. **Clone or download this repository**
+2. Open `index.html` directly in your browser
+3. Start using the Todo app! 🎉
+
+> No server or build tool is needed. It works entirely in the browser.
+
+---
+
+## 📸 UI Preview
+
+![UI Preview](https://to-do-111.netlify.app/)
+
+---
+
+## 🧠 Author & Credits
+
+Developed by **[Ravi Ranjan Kumar]**  
+Inspired by common frontend coding interview tasks.
+
+---
+
+## 📃 License
+
+This project is open-source and free to use for educational or personal use.
+
+---
+
+## 🔧 Technologies Used
+
+- HTML5
+- Tailwind CSS CDN
+- JavaScript ES6
+- Axios
+- DummyJSON API
+- LocalStorage
 
 
